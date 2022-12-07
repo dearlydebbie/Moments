@@ -10,7 +10,7 @@ function Navbar() {
   return (
     <nav className="flex justify-between items-center py-5">
       <Link href="/" legacyBehavior>
-        <button className="text-lg font-semibold">The Writer</button>
+        <button className="text-lg font-semibold">Moments</button>
       </Link>
 
       <ul className="flex items-center gap-10">
